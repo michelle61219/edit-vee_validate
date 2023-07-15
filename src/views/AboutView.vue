@@ -6,11 +6,11 @@
 </template>
 
 <script>
-import PracticeCard from "@/components/PracticeCard.vue";
+import PracticeCard from '@/components/PracticeCard.vue'
 
 export default {
   components: {
     PracticeCard,
   },
-};
+}
 </script>
