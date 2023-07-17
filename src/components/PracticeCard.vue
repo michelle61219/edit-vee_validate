@@ -17,8 +17,8 @@
 export default {
   data() {
     return {
-      title: "新標題喔!",
-    };
+      title: '新標題喔!',
+    }
   },
-};
+}
 </script>
